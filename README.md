@@ -1,2 +1,2 @@
 # DevOps-Projects
-Python App Dockerized
+All DevOps related Projects
