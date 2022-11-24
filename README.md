@@ -1,2 +1,2 @@
-# DevOps-Projects
-All DevOps related Projects
+# AWS-Projects
+All AWS related Projects
